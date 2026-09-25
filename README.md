@@ -29,8 +29,8 @@ Hands-on AWS projects where I apply what I've learned by designing and deploying
 - AWS Certified Security – Specialty
 - AWS Certified DevOps Engineer - Professional
 - Microsoft Certified: Identity and Access Administrator Associate (SC-300)
-- CISSP
-- CCSP
+- ISC2 Certified Information System Security Professional (CISSP)
+- ISC2 Certified Cloud Security Professional (CCSP)
 
 ## 📚 Study Materials
 

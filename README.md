@@ -31,8 +31,6 @@ Hands-on AWS projects where I apply what I've learned by designing and deploying
 - CISSP
 - CCSP
 
-➡️ [View Certifications](./Certifications)
-
 ## 📚 Study Materials
 
 Notes, labs, and resources I've created while studying cloud engineering and related technologies.

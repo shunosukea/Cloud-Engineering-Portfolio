@@ -27,6 +27,7 @@ Hands-on AWS projects where I apply what I've learned by designing and deploying
 - HashiCorp Certified: Terraform Associate
 - HashiCorp Certified: Terraform Authoring and Operations
 - AWS Certified Security – Specialty
+- AWS Certified DevOps Engineer - Professional
 - Microsoft Certified: Identity and Access Administrator Associate (SC-300)
 - CISSP
 - CCSP

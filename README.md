@@ -16,7 +16,10 @@ Hands-on AWS projects where I apply what I've learned by designing and deploying
 - CompTIA A+
 - CompTIA Security+
 - Microsoft Certified: Azure Fundamentals (AZ-900)
-  
+
+### Provisionally Passed
+- ISC2 Certified in Governance Risk and Compliance (CGRC)
+
 ### In Progress
 - AWS Certified Solutions Architect – Associate
 

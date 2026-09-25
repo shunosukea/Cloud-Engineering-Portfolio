@@ -10,6 +10,24 @@ Hands-on AWS projects where I apply what I've learned by designing and deploying
 
 ➡️ [View AWS Projects](./Projects/AWS)
 
+## 🏆 Certifications
+
+### Earned
+- CompTIA A+
+- CompTIA Security+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+  
+### In Progress
+- AWS Certified Solutions Architect – Associate
+
+### Planned
+- HashiCorp Certified: Terraform Associate
+- HashiCorp Certified: Terraform Authoring and Operations
+- AWS Certified Security – Specialty
+- Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+- CISSP
+- CCSP
+
 ## 📚 Study Materials
 
 Notes, labs, and resources I've created while studying cloud engineering and related technologies.

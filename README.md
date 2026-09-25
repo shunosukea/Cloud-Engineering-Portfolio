@@ -8,7 +8,7 @@ Here you'll find my study materials, hands-on labs, and cloud projects as I deve
 
 Hands-on AWS projects where I apply what I've learned by designing and deploying cloud infrastructure.
 
-➡️ [View AWS Projects](./projects/aws)
+➡️ [View AWS Projects](./Projects/AWS)
 
 ## 📚 Study Materials
 
